@@ -8,7 +8,7 @@ css: styles.css
 
 ## **Also a professor.** {style="text-align: center"}
 
-![](images/Screenshot 2024-10-08 133858.png){fig-align="center"}
+![](images/Screenshot%202024-10-08%20133858.png){fig-align="center"}
 
 ::: text-blue
 **Assistant Professor**
