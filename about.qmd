@@ -1,9 +1,56 @@
 ---
-title: "About"
+title: "Dr. Sae Hwang Han"
+format:
+  html:
+    mainfont: Georgia
+css: styles.css
 ---
 
-About this site
+## **Also a professor.** {style="text-align: center"}
 
-```{r}
-1 + 1
-```
+![](images/Sae%20Hwang%20Han.jpg){fig-align="center" width="439"}
+
+::: text-blue
+**Assistant Professor**
+
+-   Human Development & Family Sciences
+-   Human Ecology
+:::
+
+## **Biography**
+
+Starting in 2019, Han has served on the faculty in the Department of Human Development and Family Sciences at UT Austin in addition to serving as a faculty research associate for the Population Research Center, also at UT Austin.
+
+## **Research**
+
+The overarching objective of Han's research is to contribute to the scientific literature on social relationships and health in middle and later adulthood. Han's current research interests center around examining health consequences of social and productive engagement in middle and later adulthood, with a particular focus on examining how various forms of helping behaviors (e.g., formal volunteering, informal helping, or caregiving) influence behavioral and neurobiological mechanisms underlying health. Another stream of his research focuses on examining dyadic processes underlying coupled individuals\' health behaviors and health outcomes in mid- and late-life, demonstrating how individuals draw from one\'s own and partners\' social relationships for the betterment of their health. Han\'s research employs longitudinal data from national surveys, such as the *Health and Retirement Study* (HRS) and the *Midlife in the United States* (MIDUS).
+
+### **Research Areas**
+
+-   Human Development
+
+-   Relationships, Families and Youth
+
+### **Fields of Interest**
+
+-   Adult Development
+
+-   Aging
+
+-   Biobehavioral Processes and Health
+
+-   Interpersonal Relationships
+
+## **Centers and Institutes**
+
+-   Population Research Center
+
+-   Center on Aging and Population Sciences
+
+## **Education**
+
+-   Ph.D., M.S., University of Massachusetts Boston
+
+-   M.A., Yonsei University, Republic of Korea
+
+-   B.S., Yonsei University, Republic of Korea

@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quitezone",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Get to know him better",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "He’s nerdy."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Dr. Sae Hwang Han",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Assistant Professor\n\nHuman Development & Family Sciences\nHuman Ecology"
+  },
+  {
+    "objectID": "about.html#also-a-professor.",
+    "href": "about.html#also-a-professor.",
+    "title": "Dr. Sae Hwang Han",
+    "section": "",
+    "text": "Assistant Professor\n\nHuman Development & Family Sciences\nHuman Ecology"
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "Dr. Sae Hwang Han",
+    "section": "Biography",
+    "text": "Biography\nStarting in 2019, Han has served on the faculty in the Department of Human Development and Family Sciences at UT Austin in addition to serving as a faculty research associate for the Population Research Center, also at UT Austin."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "Dr. Sae Hwang Han",
+    "section": "Research",
+    "text": "Research\nThe overarching objective of Han’s research is to contribute to the scientific literature on social relationships and health in middle and later adulthood. Han’s current research interests center around examining health consequences of social and productive engagement in middle and later adulthood, with a particular focus on examining how various forms of helping behaviors (e.g., formal volunteering, informal helping, or caregiving) influence behavioral and neurobiological mechanisms underlying health. Another stream of his research focuses on examining dyadic processes underlying coupled individuals' health behaviors and health outcomes in mid- and late-life, demonstrating how individuals draw from one's own and partners' social relationships for the betterment of their health. Han's research employs longitudinal data from national surveys, such as the Health and Retirement Study (HRS) and the Midlife in the United States (MIDUS).\n\nResearch Areas\n\nHuman Development\nRelationships, Families and Youth\n\n\n\nFields of Interest\n\nAdult Development\nAging\nBiobehavioral Processes and Health\nInterpersonal Relationships"
+  },
+  {
+    "objectID": "about.html#centers-and-institutes",
+    "href": "about.html#centers-and-institutes",
+    "title": "Dr. Sae Hwang Han",
+    "section": "Centers and Institutes",
+    "text": "Centers and Institutes\n\nPopulation Research Center\nCenter on Aging and Population Sciences"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Dr. Sae Hwang Han",
+    "section": "Education",
+    "text": "Education\n\nPh.D., M.S., University of Massachusetts Boston\nM.A., Yonsei University, Republic of Korea\nB.S., Yonsei University, Republic of Korea"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SHH",
+    "section": "",
+    "text": "A man of many names. Protector of the best cats:\n\n\n\nThe best cats"
   }
 ]

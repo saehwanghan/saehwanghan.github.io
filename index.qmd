@@ -1,11 +1,10 @@
 ---
-title: "quitezone"
+title: "SHH"
+format:
+  html:
+    mainfont: Georgia
 ---
 
-This is a Quarto website.
+**A man of many names. Protector of the best cats:**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![The best cats](images/IMG_3122.jpg)

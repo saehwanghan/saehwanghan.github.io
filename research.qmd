@@ -1,0 +1,11 @@
+---
+title: "Get to know him better"
+format:
+  html:
+    mainfont: Georgia
+css: styles.css
+---
+
+He's nerdy.
+
+[![](images/Google_Scholar_logo.svg.png){fig-align="center" width="462"}](https://scholar.google.com/citations?user=gNTy5lUAAAAJ&hl=en)
