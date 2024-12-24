@@ -1,0 +1,7 @@
+---
+title: "Cats are cute"
+format:
+  html:
+    mainfont: Georgia
+css: styles.css
+---

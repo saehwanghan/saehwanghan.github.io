@@ -12,10 +12,12 @@ website:
         text: About SHH
       - href: research.qmd
         text: Research
+      - href: cats.qmd
+        text: Cats       
 
 format:
   html:
-    theme: sandstone
+    theme: cosmo
     css: styles.css
     toc: false
 
